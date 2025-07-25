@@ -1,0 +1,4 @@
+在VsCode中的操作：
+1、按 Ctrl+Shift+P → 输入 Tasks: Run Task → 选择 cmake: configure
+2、按 Ctrl+Shift+P → 输入 Tasks: Run Task → 选择 cmake: release
+3、按 Ctrl+Shift+P → 输入 Tasks: Run Task → 选择 cmake: debug
